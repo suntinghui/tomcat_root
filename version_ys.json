@@ -1,17 +1,17 @@
 {
     "android":{
-        "versionCode":138,
-        "versionName":"1.3.8",
+        "versionCode":120,
+        "versionName":"1.2.0",
         "changeLog":"请及时更新",
         "updateType":"0",
-        "updateURL":"https://a.app.qq.com/o/simple.jsp?pkgname=com.cfastech.yonghu"
+        "updateURL":"https://a.app.qq.com/o/simple.jsp?pkgname=com.cfastech.mendian"
     },
     "ios":{
-        "versionCode":138,
-        "versionName":"1.3.8",
+        "versionCode":120,
+        "versionName":"1.2.0",
         "changeLog":"请及时更新",
         "updateType":"0",
-        "updateURL":"https://a.app.qq.com/o/simple.jsp?pkgname=com.cfastech.yonghu"
+        "updateURL":"https://a.app.qq.com/o/simple.jsp?pkgname=com.cfastech.mendian"
         
     }
 }
